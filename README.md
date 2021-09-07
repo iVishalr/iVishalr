@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I like to work with Deep Neural Networks in the field of Computer Vision. I like to implement stuff from scratch and I like C :).
+
+Currently a Computer Science student at PES University.
+
 <!--
 **iVishalr/iVishalr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
