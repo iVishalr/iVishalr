@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I like to work with Deep Neural Networks in the field of Computer Vision. I like to implement stuff from scratch and I like C :).
-
-Currently a Computer Science student at PES University.
+Final year Computer Science student at PES University. Interested in Systems, System Design, Performance Engineering and Deep Learning. I like to use Python and C programming languages. I like building projects from the ground up as it allows me to design it more efficiently and as per my needs :)
 
 <!--
 **iVishalr/iVishalr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
